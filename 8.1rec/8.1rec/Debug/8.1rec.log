@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Користува\source\repos\ап\8.1rec\8.1rec\Source.cpp(45,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Користува\source\repos\ап\8.1rec\8.1rec\Source.cpp(49,41): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  8.1rec.vcxproj -> C:\Users\Користува\source\repos\ап\8.1rec\Debug\8.1rec.exe
